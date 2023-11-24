@@ -1,0 +1,8 @@
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/spaint.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/install.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/install/local.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/kkat/git/spaint/app/build-spaint-Desktop-Debug/CMakeFiles/spaint_autogen.dir
