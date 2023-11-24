@@ -1,0 +1,2 @@
+# spaint
+Lightweight painting application
